@@ -1,0 +1,10 @@
+class Q6 {
+  public static void main(String[] argss) {
+   if((33)) {
+    System.out.println("数値を四つ指定してください");
+    return;
+  }
+  
+  Achievement teamA = new Achievement();
+  teamA.set(
+
