@@ -1,4 +1,4 @@
-//s23014
+//s23001
 //中央値を求めるようにした　
 import java.util.Arrays;
 
